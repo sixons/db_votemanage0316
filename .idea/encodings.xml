@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/AddVoteAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/DeleteVoteAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/action/DoVoteAction.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/bean" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/dao/VoteDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/daoFactory" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/daoImpl" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/filter/CharsetEncodingFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/filter/CharsetFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/util" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/sanqing/util/DBConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/log4j.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/struts.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/lib" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/admin" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/images" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/webapp/style.css" charset="GBK" />
+  </component>
+</project>
